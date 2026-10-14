@@ -1,0 +1,8 @@
+{
+  "name": "ZENA DIGITAL STUDIO",
+  "description": "Jasa iklan digital, pembuatan toko online marketplace, dan growth social media untuk UMKM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
